@@ -1,0 +1,23 @@
+name: example
+description: Demonstrates how to use the qaid_markdown_editor package.
+publish_to: 'none' # We do not publish the example app to pub.dev
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # THIS IS THE MOST IMPORTANT PART:
+  # It tells this example app to use the library from the parent directory.
+  qaid_markdown_editor:
+    path: ../
+
+  # You can add other dependencies the example app needs here.
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0

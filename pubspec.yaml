@@ -1,0 +1,25 @@
+name: qaid_markdown_editor
+description: A professional, modern, and highly customizable Markdown editor widget for Flutter, featuring a live preview and syntax highlighting.
+version: 1.0.0
+homepage: https://github.com/QaidSaher/qaid_markdown_editor
+repository: https://github.com/QaidSaher/qaid_markdown_editor
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_markdown: ^0.7.1
+  google_fonts: ^6.2.1
+  flutter_highlight: ^0.7.0
+  markdown: ^7.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+# IMPORTANT: Remove this line just before you publish!
+publish_to: 'none'
