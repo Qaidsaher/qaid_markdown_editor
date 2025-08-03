@@ -5,7 +5,7 @@
 A professional, modern, and highly customizable Markdown editor widget for Flutter, created by **Saher Qaid**.
 
 ![Qaid Markdown Editor Demo](https://raw.githubusercontent.com/QaidSaher/qaid_markdown_editor/main/screenshots/editor_demo.gif)
-*(To add your own GIF, place it in a `screenshots` folder and update the link above)*
+
 
 ## Features
 
