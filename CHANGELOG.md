@@ -1,3 +1,8 @@
+## 1.0.2
+
+- Fixed placeholder text in the `LICENSE` file.
+
+
 ## 1.0.1
 
 - Fixed placeholder text in the `LICENSE` file.
